@@ -284,7 +284,6 @@ button {
 .prtfl-list-item {
   background-color: #fff;
   width: calc((100% - 48px) / 3);
-  border: 1px solid #e7e9fc;
 }
 
 .portfolio-list-item {
